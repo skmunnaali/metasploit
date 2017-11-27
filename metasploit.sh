@@ -12,6 +12,7 @@ apt update && apt upgrade
 echo "Downloading & Extracting....."
 
 cd $HOME
+pkg install curl
 curl -LO https://github.com/rapid7/metasploit-framework/archive/4.16.16.tar.gz
 tar -xf $HOME/4.16.16.tar.gz
 mv $HOME/metasploit-framework-4.16.16 $HOME/metasploit-framework
