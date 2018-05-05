@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
-echo "PLZ SUBSCRIBE MY CHANNEL OS-Prashant"
+echo "
 echo "##############################################"
 
 echo "WAIT UNTIL INSTALLING............" 
